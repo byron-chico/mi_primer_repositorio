@@ -9,13 +9,13 @@ Este es mi primer repositorio. Aquí empecé a trabajar con GitHub.
 ## ✅ Respuestas
  
 ### 🧪 ¿Qué hice aquí?
-(Respuesta)
+(realizar commits y revisar que se guarden)
  
 ### 😮 ¿Qué es GitHub?
-(Respuesta)
+(GitHub es una plataforma en la nube que funciona como el mayor repositorio y red social para desarrolladores)
  
 ### 🎯 ¿Para qué me sirve?
-(Respuesta)
+(Para respaldar versiones de un mismo archivo)
  
 ---
  
@@ -25,5 +25,5 @@ Aquí ya realicé varios cambios en GitHub.
 ---
  
 ## 👤 Sobre mí
-Nombre:
-Curso: 
+Nombre: Byron Chico
+Curso: 2nd bachillerato
