@@ -9,13 +9,13 @@ Este es mi primer repositorio. Aquí empecé a trabajar con GitHub.
 ## ✅ Respuestas
  
 ### 🧪 ¿Qué hice aquí?
-(realizar commits y revisar que se guarden)
+(copiar y pegar lineas de codigos)
  
 ### 😮 ¿Qué es GitHub?
 (GitHub es una plataforma en la nube que funciona como el mayor repositorio y red social para desarrolladores)
  
 ### 🎯 ¿Para qué me sirve?
-(Para respaldar versiones de un mismo archivo)
+(Para respaldar versiones de un mismo archivo para poder regresar a versiones anteriores)
  
 ---
  
